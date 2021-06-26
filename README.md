@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SIMCHEOL
 - 👀 I’m interested in Embedded SW, Server-side SW.
-- 🌱 I’m currently learning C++.
+- 🌱 I’m currently learning C++(cpprest), NodeJS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, contact e-mail : cheol.dev@gmail.com
 
